@@ -1,9 +1,10 @@
-This is Android 14 with May 2024 QPR2 (r35) security patches
+This is Android 14 with July 2024 QPR3 (r53) security patches
 
 Notes:
 ==============================
 - LineageOS-based source. Signed build.
 - Clean flash is required if coming from March or older builds.
 - Install KernelSU (https://github.com/tiann/KernelSU/releases/download/v1.0.0/KernelSU_v1.0.0_11874-release.apk) for root.
-- Play Integrity passes (As of 06/04/2024).
+- Play Integrity passes (As of 07/05/2024).
 - For DolbyAtmos you can flash (https://www.pling.com/p/2105416/) core files are already in rom.
+- Latest Build gave my edge 30 away.
